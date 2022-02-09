@@ -1,0 +1,66 @@
+export const TRANSLATIONS_EN = {
+  customerFeedback: "Customers feedback",
+  salesAdvice: "Sales advice",
+  salesChart: "Sales chart",
+  salesQuality: "Sales quality",
+  returnedOrders: "Returned",
+  unpaidOrders: "Unpaid",
+  unshippedOrders: "Unshipped",
+
+  couldNotDownloadData: "The data could not be downloaded",
+  noData: "No data",
+
+  login: "Login",
+  username: "Username",
+  password: "Password",
+
+  myAccount: "My account",
+  logout: "Logout",
+
+  offerRanking: "Offer ranking",
+  offerRankingImageAndName: "Offer's image and name",
+  offerRankingSolds: "Number of units sold",
+  offerRankingTurnover: "Turnover",
+  offerRankingViews: "Views",
+  offerRankingMostBought: "Most bought",
+  offerRankingLeastBought: "Least bought",
+
+  all: "All",
+  positive: "Positive",
+  negative: "Negative",
+  by: "by",
+  days_interval: "(1)[{{count}} day ago];(2-inf)[{{count}} days ago];",
+  hours_interval: "(1)[{{count}} hour ago];(2-inf)[{{count}} hours ago];",
+  minutes_interval: "(1)[{{count}} minute ago];(2-inf)[{{count}} minutes ago];",
+
+  units_sold: "Units sold",
+  turnover: "Turnover",
+  today: "Today",
+  this_week: "This week",
+  this_year: "This year",
+  previous_period: "Previous period",
+
+  january: "Jan",
+  february: "Feb",
+  march: "Mar",
+  april: "Apr",
+  may: "May",
+  june: "Jun",
+  july: "Jul",
+  august: "Aug",
+  september: "Sep",
+  october: "Oct",
+  november: "Nov",
+  december: "Dec",
+
+  monday: "Mon",
+  tuesday: "Tue",
+  wednesday: "Wed",
+  thursday: "Thu",
+  friday: "Fri",
+  saturday: "Sat",
+  sunday: "Sun",
+
+  current: "Current",
+  previous: "Previous"
+};

@@ -1,0 +1,28 @@
+.SalesChartWidget {
+  width: 550px;
+  height: 380px;
+  padding: 20px;
+
+  text-align: center;
+  vertical-align: center;
+}
+
+#salesChartWidgetHeader {
+  display: flex;
+  align-items: space-between;
+}
+
+#buttonChart {
+  width: 65px;
+}
+
+#chartImage {
+  height: 20px;
+  width: 20px;
+}
+
+.SalesChartMenu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

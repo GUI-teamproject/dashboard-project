@@ -1,0 +1,17 @@
+export const headphones = require("./headphones.png");
+export const intel = require("./intel.png");
+export const keyboard = require("./keyboard.png");
+export const mouse = require("./mouse.png");
+export const phone = require("./phone.png");
+export const door = require("./door.png");
+export const armchair = require("./armchair.png");
+export const chair = require("./chair.png");
+export const desk = require("./desk.png");
+export const bed = require("./bed.png");
+export const bed2 = require("./bed2.png");
+export const sofa = require("./sofa.png");
+export const taboret = require("./taboret.png");
+export const neck_speaker = require("./neck_speaker.png");
+export const amiga = require("./amiga.png");
+export const ps5 = require("./ps5.png");
+export const kostka = require("./kostka.png");

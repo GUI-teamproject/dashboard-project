@@ -1,0 +1,15 @@
+export const best = require("./best.png");
+export const good = require("./good.png");
+export const medium = require("./medium.png");
+export const bad = require("./bad.png");
+export const worst = require("./worst.png");
+export const column_chart = require("./column-chart.png");
+export const line_chart = require("./line-chart.png");
+export const unpaid = require("./unpaid.png");
+export const unshipped = require("./unshipped.png");
+export const returned = require("./returned.png");
+export const sun = require("./sun.png");
+export const moon = require("./moon.png");
+export const polish = require("./polish.png");
+export const english = require("./english.png");
+export const account = require("./account.png");

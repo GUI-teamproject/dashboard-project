@@ -1,10 +1,16 @@
-# Dashboard projet
+# Dashboard project
 
 Seller's dashboard web application
 
 ## Used technologies
 
 Javascript, React, Material UI, ECharts, i18next
+
+## Design
+
+Methodology: Atomic Design
+
+Design system is available in Figma: https://www.figma.com/file/ghdHbSlfpRf3NBM0EpMdfZ/Dashboard?node-id=0%3A1
 
 ## Application
 
